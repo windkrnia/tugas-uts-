@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">uts</string>
+    <string name="email_not_valid">Email not valid</string>
+    <string name="pass_length_less_then_8">Password length less then 8</string>
+</resources>
